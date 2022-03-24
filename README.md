@@ -13,7 +13,8 @@ I am currently working towards my MS in Artificial Intelligence at Northwestern 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BD0mnC0nteV-TUFbU6yk-FTvHLyiY6GX/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saumyasingh98/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinsparikh/)
 
 ## 🛠 Technical Skills
 
