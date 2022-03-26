@@ -10,7 +10,7 @@ I am currently working towards my MS in Artificial Intelligence at Northwestern 
 
 - 💬 Ask me about - **Machine Learning, Natural Language Processing and Artificial Intelligence**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BD0mnC0nteV-TUFbU6yk-FTvHLyiY6GX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W2qOGl0bZUg6KVk12yHeseeHuvvkIbUM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
