@@ -13,7 +13,7 @@ I am currently working towards my MS in Artificial Intelligence at Northwestern 
 - Deep Learning
 - Artificial Intelligence
 
-<h3 align="left">📄 Know about my experiences</h3>[Resume](https://drive.google.com/file/d/1W2qOGl0bZUg6KVk12yHeseeHuvvkIbUM/view?usp=sharing)
+<h3 align="left">📄 Know about my experiences</h3>[!Resume](https://drive.google.com/file/d/1W2qOGl0bZUg6KVk12yHeseeHuvvkIbUM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 
