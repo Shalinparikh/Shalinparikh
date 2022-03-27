@@ -6,8 +6,6 @@ I am currently working towards my MS in Artificial Intelligence at Northwestern 
 
 - 🌱 I’m currently learning **Computer Vision and Deep Reinforcement Learning**
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalinparikh317@gmail.com) 
-
 - 💬 **Ask me about**
 - Machine Learning
 - Data Science
@@ -20,6 +18,7 @@ I am currently working towards my MS in Artificial Intelligence at Northwestern 
 <h3 align="left">Connect with me:</h3>
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shalinsparikh/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalinparikh317@gmail.com)
 
 
 ## 🛠 Technical Skills
@@ -53,8 +52,8 @@ Developer Tools: Amazon Web Services (AWS), Linux, Git, Tableau, Docker, Apache 
 
 🛠**Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=Django)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
