@@ -6,15 +6,14 @@ I am currently working towards my MS in Artificial Intelligence at Northwestern 
 
 - 🌱 I’m currently learning **Computer Vision and Deep Reinforcement Learning**
 
-- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/-shalinparikh317@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shalinparikh317@gmail.com)](mailto:shalinparikh317@gmail.com) 
+- 📫 How to reach me [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shalinparikh317@gmail.com) 
 
-- 💬 Ask me about - **Machine Learning, Natural Language Processing and Artificial Intelligence**
-- 💻 **Things I love**
-- C++/Java Frameworks <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- Backend Development ✍️
-- Machine Learning 🧐
-- Data Science 😬
-- Cloud Computing ✍️
+- 💬 **Ask me about**
+- Machine Learning
+- Data Science
+- Natural Language Processing
+- Deep Learning
+- Artificial Intelligence
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1W2qOGl0bZUg6KVk12yHeseeHuvvkIbUM/view?usp=sharing)
 
@@ -71,7 +70,4 @@ Developer Tools: Amazon Web Services (AWS), Linux, Git, Tableau, Docker, Apache 
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
-<div align="center">
-    <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div>
 
